@@ -518,7 +518,7 @@ section > p {
     cursor: pointer;
     font-family: var(--font-main);
     transition: var(--transition-base);
-    align-self: flex-start;
+    align-self: center;
 }
 
 .submit-btn:hover {
